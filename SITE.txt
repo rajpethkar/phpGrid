@@ -1,0 +1,2 @@
+http://localhost/phpGrid/examples/grid_caption.php
+database->phpGrid\examples\SampleDB\mysql_db.sql
